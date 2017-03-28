@@ -1,3 +1,3 @@
 # Springboard Coursework
 
-Hello! This is my first repository. 
+Welcome! This is the repository that contains my data science learning and projects with Springboard.
