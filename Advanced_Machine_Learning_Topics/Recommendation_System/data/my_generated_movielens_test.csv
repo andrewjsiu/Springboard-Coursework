@@ -223,7 +223,7 @@
 615341,5499,3261,5,959797486,F,25,19,60201,Singles (1992),Comedy|Drama|Romance,False
 492235,2915,1967,3,971751231,M,25,7,23423,Labyrinth (1986),Adventure|Children's|Fantasy,False
 758166,664,2915,4,975992957,M,35,18,74601,Risky Business (1983),Comedy,False
-422001,5947,1320,5,957209692,F,45,16,97215,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+422001,5947,1320,5,957209692,F,45,16,97215,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 590715,2990,2920,5,970953462,M,35,12,45243,Children of Paradise (Les enfants du paradis) (1945),Drama|Romance,False
 890284,588,2349,4,975944227,F,25,11,23220,Mona Lisa (1986),Comedy|Thriller,False
 435343,5607,2136,3,959191269,M,18,4,11209,"Nutty Professor, The (1963)",Comedy,False
@@ -842,7 +842,7 @@
 789545,4447,471,3,965174604,M,45,5,32953,"Hudsucker Proxy, The (1994)",Comedy|Romance,False
 718944,3433,3052,4,967415962,M,18,12,55113,Dogma (1999),Comedy,False
 934098,3921,69,3,965718639,M,25,14,95820,Friday (1995),Comedy,False
-421169,636,1320,4,975752996,M,18,20,92055,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421169,636,1320,4,975752996,M,18,20,92055,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 109148,3637,2858,5,966489021,M,25,6,94127,American Beauty (1999),Comedy|Drama,False
 513589,4819,2003,5,962927489,M,35,18,17350,Gremlins (1984),Comedy|Horror,False
 279309,1775,2734,4,974702383,M,25,4,70115,"Mosquito Coast, The (1986)",Drama,False
@@ -1128,7 +1128,7 @@
 630923,1563,1284,5,974740530,F,1,10,87123,"Big Sleep, The (1946)",Film-Noir|Mystery,False
 585684,5256,3269,3,961272713,M,25,16,30269,Forever Young (1992),Adventure|Romance|Sci-Fi,False
 221603,2897,3527,4,971933225,M,25,5,97405,Predator (1987),Action|Sci-Fi|Thriller,False
-302410,1069,3266,5,974944241,M,25,20,98105,Man Bites Dog (C'est arrivé près de chez vous) (1992),Action|Comedy|Crime|Drama,False
+302410,1069,3266,5,974944241,M,25,20,98105,Man Bites Dog (C'est arrivÃ© prÃ¨s de chez vous) (1992),Action|Comedy|Crime|Drama,False
 844192,5101,3788,2,962363130,M,25,0,90069,Blowup (1966),Drama|Mystery,False
 811306,889,3096,4,975250320,M,45,20,10024,My Man Godfrey (1957),Comedy,False
 104757,524,1690,1,976171688,M,18,0,91320,Alien: Resurrection (1997),Action|Horror|Sci-Fi,False
@@ -1418,7 +1418,7 @@
 865064,1314,2491,5,974782719,F,18,4,68154,Simply Irresistible (1999),Comedy|Romance,False
 993090,5333,807,4,979096816,F,25,7,02332,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",Comedy|Romance,False
 412894,5222,1584,3,1008049326,M,25,12,94501,Contact (1997),Drama|Sci-Fi,False
-421194,752,1320,2,991955362,F,25,3,97401,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421194,752,1320,2,991955362,F,25,3,97401,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 589218,1029,2243,4,975004163,M,25,0,20015,Broadcast News (1987),Comedy|Drama|Romance,False
 467984,5433,765,3,960050028,F,35,17,45014,Jack (1996),Comedy|Drama,False
 446431,2137,671,4,974641728,F,1,10,00681,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi,False
@@ -1546,7 +1546,7 @@
 267274,6016,3163,5,956957751,M,45,1,37209,Topsy-Turvy (1999),Drama,False
 109369,4026,2858,5,965516827,M,25,7,68164,American Beauty (1999),Comedy|Drama,False
 508161,6007,3099,2,956789531,M,35,17,80537,Shampoo (1975),Comedy|Romance,False
-386294,4681,2324,4,963682031,F,35,15,06119,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+386294,4681,2324,4,963682031,F,35,15,06119,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 630012,1218,319,4,976131396,M,56,15,13207,Shallow Grave (1994),Thriller,False
 683126,1542,1591,2,974744218,M,18,17,12054,Spawn (1997),Action|Adventure|Sci-Fi|Thriller,False
 7701,4745,1197,5,963248437,F,18,4,06268,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance,False
@@ -2289,7 +2289,7 @@
 373394,1194,105,4,1036260053,F,25,1,95617,"Bridges of Madison County, The (1995)",Drama|Romance,False
 601051,3213,1883,1,968518997,F,25,1,83705,Bulworth (1998),Comedy,False
 718610,1087,3052,1,990550188,M,25,16,08826,Dogma (1999),Comedy,False
-385930,2526,2324,4,974066093,M,56,13,37923,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385930,2526,2324,4,974066093,M,56,13,37923,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 100309,2389,1834,4,974300547,M,25,16,37922,"Spanish Prisoner, The (1997)",Drama|Thriller,False
 25632,5556,1270,1,959442446,M,45,6,92103,Back to the Future (1985),Comedy|Sci-Fi,False
 931864,850,3606,2,975350796,M,35,0,60640,On the Town (1949),Musical,False
