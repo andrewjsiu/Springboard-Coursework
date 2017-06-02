@@ -11,7 +11,7 @@
 509605,4287,2000,5,965277593,M,25,7,35244,Lethal Weapon (1987),Action|Comedy|Crime|Drama,False
 600236,2629,762,2,973626998,M,25,11,15237,Striptease (1996),Comedy|Crime,False
 853771,3885,3519,4,973715937,M,25,12,92728,Force 10 from Navarone (1978),Action|War,False
-386075,3269,2324,5,968199057,F,18,20,45220,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+386075,3269,2324,5,968199057,F,18,20,45220,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 437027,509,1339,4,976209492,M,25,2,55125,Bram Stoker's Dracula (1992),Horror|Romance,False
 562399,4950,1288,3,962946210,M,25,16,55421,This Is Spinal Tap (1984),Comedy|Drama|Musical,False
 905795,4354,2184,5,966752385,M,35,14,78611,"Trouble with Harry, The (1955)",Mystery|Thriller,False
@@ -852,7 +852,7 @@
 427023,2225,1257,2,974678005,M,25,5,96815,Better Off Dead... (1985),Comedy,False
 313409,4715,497,4,963507935,M,25,2,97205,Much Ado About Nothing (1993),Comedy|Romance,False
 14097,1426,2398,4,975441539,M,18,14,94070,Miracle on 34th Street (1947),Drama,False
-385857,2038,2324,4,974670131,F,45,1,33301,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385857,2038,2324,4,974670131,F,45,1,33301,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 944577,5054,2285,2,994525432,M,35,2,20818,If.... (1968),Drama,False
 170338,3651,2002,1,966457511,M,25,14,98103,Lethal Weapon 3 (1992),Action|Comedy|Crime|Drama,False
 260882,202,1485,3,976940368,M,18,4,53706,Liar Liar (1997),Comedy,False
@@ -862,7 +862,7 @@
 505378,25,1129,4,978132234,M,18,4,01609,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller,False
 68828,1680,2916,2,974838799,M,25,20,95380,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller,False
 339888,3860,266,4,965860869,M,45,17,44129,Legends of the Fall (1994),Drama|Romance|War|Western,False
-421382,1950,1320,3,974692220,M,25,12,49024,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421382,1950,1320,3,974692220,M,25,12,49024,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 953718,5675,2749,3,966874189,M,35,14,30030,"Morning After, The (1986)",Drama|Mystery,False
 100989,1780,3471,5,974704956,M,35,1,22181,Close Encounters of the Third Kind (1977),Drama|Sci-Fi,False
 18834,5256,2687,3,961272884,M,25,16,30269,Tarzan (1999),Animation|Children's,False
@@ -1027,7 +1027,7 @@
 192588,712,1291,3,975538719,M,25,0,95136,Indiana Jones and the Last Crusade (1989),Action|Adventure,False
 791548,1698,2463,4,975875460,M,35,2,97214,Ruthless People (1986),Comedy,False
 946897,3320,1995,1,970861612,M,25,1,56082,Poltergeist II: The Other Side (1986),Horror|Thriller,False
-981101,3301,2585,5,1026010456,F,25,2,85719,"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar) (1998)",Drama|Romance,False
+981101,3301,2585,5,1026010456,F,25,2,85719,"Lovers of the Arctic Circle, The (Los Amantes del CÃ­rculo Polar) (1998)",Drama|Romance,False
 500585,5517,3086,3,959701052,M,56,0,80210,March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) (1934),Comedy,False
 565681,2225,3129,1,974676966,M,25,5,96815,Sweet and Lowdown (1999),Comedy|Drama,False
 317997,3299,32,4,968035433,F,25,4,19119,Twelve Monkeys (1995),Drama|Sci-Fi,False
@@ -1133,7 +1133,7 @@
 968859,2041,2295,5,975173593,F,25,20,24015,"Impostors, The (1998)",Comedy,False
 748088,5220,2419,2,961543734,M,25,7,91436,Extremities (1986),Drama|Thriller,False
 699473,1613,2860,1,974734448,M,18,20,61801,Blue Streak (1999),Comedy,False
-421441,2445,1320,3,974217930,M,25,0,48104,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421441,2445,1320,3,974217930,M,25,0,48104,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 796005,4115,930,5,965365155,M,25,15,99353,Notorious (1946),Film-Noir|Romance|Thriller,False
 293506,715,551,4,975533677,M,18,0,53715,"Nightmare Before Christmas, The (1993)",Children's|Comedy|Musical,False
 699694,123,1994,3,979325398,M,35,9,67208,Poltergeist (1982),Horror|Thriller,False
@@ -1146,7 +1146,7 @@
 257685,1836,1554,3,974828641,M,25,0,10016,"Pillow Book, The (1995)",Drama|Romance,False
 86800,5394,902,3,1020053651,M,18,0,60618,Breakfast at Tiffany's (1961),Drama|Romance,False
 538493,4116,2021,3,968553626,M,35,7,07040,Dune (1984),Fantasy|Sci-Fi,False
-385946,2624,2324,4,973905764,F,35,0,44313,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385946,2624,2324,4,973905764,F,35,0,44313,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 32140,3808,1721,5,965970570,M,25,7,60010,Titanic (1997),Drama|Romance,False
 430985,1958,3438,3,994383129,F,25,1,17055,Teenage Mutant Ninja Turtles (1990),Action|Children's|Fantasy,False
 371075,1465,1711,3,974754586,M,50,16,93003,Midnight in the Garden of Good and Evil (1997),Comedy|Crime|Drama|Mystery,False
@@ -1329,7 +1329,7 @@
 378183,5113,2023,2,971972152,M,25,0,55408,"Godfather: Part III, The (1990)",Action|Crime|Drama,False
 704527,1899,1219,5,974695159,F,45,6,02135,Psycho (1960),Horror|Thriller,False
 362174,398,2712,4,1044565595,M,25,17,55454,Eyes Wide Shut (1999),Drama,False
-421352,1776,1320,3,974703155,M,25,0,45801,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421352,1776,1320,3,974703155,M,25,0,45801,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 637782,5504,1614,2,959738240,M,45,7,85287-2702,In & Out (1997),Comedy,False
 291318,2837,2890,5,972572536,M,18,0,49506,Three Kings (1999),Drama|War,False
 8425,1812,1287,5,974701588,F,25,12,48103,Ben-Hur (1959),Action|Adventure|Drama,False
@@ -1345,7 +1345,7 @@
 150160,3892,1954,4,969754244,M,25,20,91505,Rocky (1976),Action|Drama,False
 236543,4386,3793,5,965250139,M,25,5,74055,X-Men (2000),Action|Sci-Fi,False
 217237,5220,1036,4,961541839,M,25,7,91436,Die Hard (1988),Action|Thriller,False
-928456,146,3054,2,980452460,F,35,20,10954,Pokémon: The First Movie (1998),Animation|Children's,False
+928456,146,3054,2,980452460,F,35,20,10954,PokÃ©mon: The First Movie (1998),Animation|Children's,False
 936627,3526,3141,4,967618758,M,35,2,62263-3004,"Two Jakes, The (1990)",Drama,False
 200547,5623,1266,5,959094210,M,25,11,84109,Unforgiven (1992),Western,False
 846161,3290,3706,5,968092364,M,25,14,90292,Angel Heart (1987),Film-Noir|Mystery|Thriller,False
@@ -1844,7 +1844,7 @@
 740753,3480,3044,5,967088145,M,25,0,59405,Dead Again (1991),Mystery|Romance|Thriller,False
 54404,4832,2028,5,962899282,M,25,14,17857,Saving Private Ryan (1998),Action|Drama|War,False
 743311,5728,1958,3,958470455,F,35,20,09824,Terms of Endearment (1983),Comedy|Drama,False
-106822,1503,1873,3,974763250,M,25,12,92688,"Misérables, Les (1998)",Drama,False
+106822,1503,1873,3,974763250,M,25,12,92688,"MisÃ©rables, Les (1998)",Drama,False
 950893,2038,3921,2,975249278,F,45,1,33301,Beach Party (1963),Comedy,False
 71693,2017,1210,5,974673281,M,25,17,35808,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War,False
 270492,208,1921,4,977260505,M,35,17,55432,Pi (1998),Sci-Fi|Thriller,False
@@ -2507,7 +2507,7 @@
 388212,515,1673,3,976202618,M,25,1,55406,Boogie Nights (1997),Drama,False
 846948,5026,1603,2,962774934,M,25,17,92584,Mimic (1997),Sci-Fi|Thriller,False
 618,2306,1193,4,974493420,F,18,4,02138,One Flew Over the Cuckoo's Nest (1975),Drama,False
-836191,5070,2575,4,962467931,M,25,2,55344,"Dreamlife of Angels, The (La Vie rêvée des anges) (1998)",Drama,False
+836191,5070,2575,4,962467931,M,25,2,55344,"Dreamlife of Angels, The (La Vie rÃªvÃ©e des anges) (1998)",Drama,False
 394483,1941,3298,2,989645491,M,35,17,94550,Boiler Room (2000),Drama,False
 956290,4682,1404,4,965607146,M,25,7,05346,Night Falls on Manhattan (1997),Crime|Drama,False
 561086,4652,246,5,963949657,F,25,7,94115,Hoop Dreams (1994),Documentary,False
@@ -2532,7 +2532,7 @@
 107721,1194,2858,5,1036261127,F,25,1,95617,American Beauty (1999),Comedy|Drama,False
 27288,3674,527,4,966364765,M,25,20,29205,Schindler's List (1993),Drama|War,False
 766661,1778,5,3,974704120,M,18,4,94704,Father of the Bride Part II (1995),Comedy,False
-385553,564,2324,4,976040652,M,45,1,49419,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385553,564,2324,4,976040652,M,45,1,49419,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 898114,5046,22,4,962501542,M,25,16,60614,Copycat (1995),Crime|Drama|Thriller,False
 613684,1004,2961,2,975051954,M,25,3,95136,"Story of Us, The (1999)",Comedy|Drama,False
 252627,1303,1191,2,974872494,M,25,19,94111,Madonna: Truth or Dare (1991),Documentary,False
@@ -2958,7 +2958,7 @@
 849516,3063,3697,3,970015560,M,18,4,03106,Predator 2 (1990),Action|Sci-Fi|Thriller,False
 549319,3726,1234,4,966218571,M,25,17,92882,"Sting, The (1973)",Comedy|Crime,False
 874754,1958,1526,3,994387901,F,25,1,17055,Fathers' Day (1997),Comedy,False
-961686,5916,2495,2,957460661,M,50,20,48230,"Fantastic Planet, The (La Planète sauvage) (1973)",Animation|Sci-Fi,False
+961686,5916,2495,2,957460661,M,50,20,48230,"Fantastic Planet, The (La PlanÃ¨te sauvage) (1973)",Animation|Sci-Fi,False
 316479,42,353,4,978040992,M,25,8,24502,"Crow, The (1994)",Action|Romance|Thriller,False
 691020,5414,1407,4,960236947,M,1,10,07652,Scream (1996),Horror|Thriller,False
 93801,2683,3255,5,980029820,M,35,7,60188,"League of Their Own, A (1992)",Comedy|Drama,False
@@ -3003,7 +3003,7 @@
 299892,1687,3409,4,974708407,M,25,3,85013,Final Destination (2000),Drama|Thriller,False
 469909,692,339,4,979437772,F,25,0,85207,While You Were Sleeping (1995),Comedy|Romance,False
 645037,424,2527,4,976281708,M,25,17,55112,Westworld (1973),Action|Sci-Fi|Thriller|Western,False
-238500,5278,3799,1,964023466,F,25,7,55122,Pokémon the Movie 2000 (2000),Animation|Children's,False
+238500,5278,3799,1,964023466,F,25,7,55122,PokÃ©mon the Movie 2000 (2000),Animation|Children's,False
 554318,4021,2046,4,965520407,M,50,20,95236,Flight of the Navigator (1986),Adventure|Children's|Sci-Fi,False
 952857,1680,2381,1,974838315,M,25,20,95380,Police Academy 4: Citizens on Patrol (1987),Comedy,False
 870493,2015,2468,2,1017608696,M,18,4,01003,Jumpin' Jack Flash (1986),Action|Comedy|Romance|Thriller,False
@@ -3359,7 +3359,7 @@
 503832,2092,1125,5,978303224,M,56,1,49006,"Return of the Pink Panther, The (1974)",Comedy,False
 838715,1626,3060,4,974723474,M,18,4,10010,"Commitments, The (1991)",Comedy|Drama,False
 16155,1699,1035,5,974710469,F,25,19,98102,"Sound of Music, The (1965)",Musical,False
-107007,5996,1873,3,958073652,F,25,0,87114,"Misérables, Les (1998)",Drama,False
+107007,5996,1873,3,958073652,F,25,0,87114,"MisÃ©rables, Les (1998)",Drama,False
 948962,4277,332,3,965387016,M,35,16,98133,Village of the Damned (1995),Horror|Sci-Fi,False
 236246,3412,3793,5,969589249,M,25,18,85213,X-Men (2000),Action|Sci-Fi,False
 771128,5056,3614,4,962488413,M,45,1,16673,Honeymoon in Vegas (1992),Comedy|Romance,False
@@ -3636,7 +3636,7 @@
 292948,4611,16,2,964153057,F,18,4,78705,Casino (1995),Drama|Thriller,False
 584488,4049,2528,4,965496873,M,45,11,33133,Logan's Run (1976),Action|Adventure|Sci-Fi,False
 483967,415,924,5,977500205,F,35,0,55406,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller,False
-421332,1637,1320,4,974715663,M,56,0,90049,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421332,1637,1320,4,974715663,M,56,0,90049,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 767071,5223,804,3,961531203,M,56,10,11361,She's the One (1996),Comedy|Romance,False
 490393,3841,858,5,965995059,M,45,18,26101,"Godfather, The (1972)",Action|Crime|Drama,False
 875260,1860,2401,3,978328079,M,56,16,94591,Pale Rider (1985),Western,False
@@ -3700,7 +3700,7 @@
 775455,5623,1381,2,959093948,M,25,11,84109,Grease 2 (1982),Comedy|Musical|Romance,False
 859861,3812,1590,3,965955527,M,35,17,78749,Event Horizon (1997),Action|Mystery|Sci-Fi|Thriller,False
 664641,2015,1005,1,975035811,M,18,4,01003,D3: The Mighty Ducks (1996),Children's|Comedy,False
-385765,1605,2324,5,974927679,F,18,0,28270,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385765,1605,2324,5,974927679,F,18,0,28270,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 760784,5561,468,1,959375424,F,25,3,74075,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",Comedy|Romance,False
 560450,5450,2076,5,959980348,M,18,12,02143,Blue Velvet (1986),Drama|Mystery,False
 951165,4079,241,5,965444030,M,35,17,26505,Fluke (1995),Children's|Drama,False
@@ -3807,7 +3807,7 @@
 246668,2986,1909,3,970812419,M,25,4,24060,"X-Files: Fight the Future, The (1998)",Mystery|Sci-Fi|Thriller,False
 165104,837,3418,4,975360203,M,56,7,08540,Thelma & Louise (1991),Action|Drama,False
 550124,3778,2109,4,966037254,M,25,0,61832,"Jerk, The (1979)",Comedy,False
-981137,5517,3532,5,959701978,M,56,0,80210,Freedom for Us (À nous la liberté ) (1931),Comedy,False
+981137,5517,3532,5,959701978,M,56,0,80210,Freedom for Us (Ã€ nous la libertÃ© ) (1931),Comedy,False
 903659,1369,2788,4,974771875,M,25,5,12308,And Now for Something Completely Different (1971),Comedy,False
 511893,2745,1200,3,973215617,F,35,1,30345,Aliens (1986),Action|Sci-Fi|Thriller|War,False
 204834,4482,1304,5,965096148,F,35,1,94044,Butch Cassidy and the Sundance Kid (1969),Action|Comedy|Western,False
@@ -4077,7 +4077,7 @@
 15412,4312,2918,5,965258754,M,25,18,78757,Ferris Bueller's Day Off (1986),Comedy,False
 238266,5021,2058,4,962582779,M,50,6,90504,"Negotiator, The (1998)",Action|Thriller,False
 958608,1181,2925,4,974948218,M,35,7,20716,"Conformist, The (Il Conformista) (1970)",Drama,False
-385527,442,2324,4,978453244,M,25,1,55105,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+385527,442,2324,4,978453244,M,25,1,55105,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 313480,5184,497,4,961735374,M,18,20,67212,Much Ado About Nothing (1993),Comedy|Romance,False
 307452,5345,2759,5,960672446,F,25,17,80003,Dick (1999),Comedy,False
 18226,5074,2791,4,962428476,M,1,0,20132,Airplane! (1980),Comedy,False
@@ -4534,7 +4534,7 @@
 203917,343,1304,3,1010347316,F,35,3,55127,Butch Cassidy and the Sundance Kid (1969),Action|Comedy|Western,False
 544083,319,3198,4,1016590228,F,50,6,33436,Papillon (1973),Drama,False
 881661,5249,423,3,961601057,F,45,14,75006,Blown Away (1994),Action|Thriller,False
-386198,3892,2324,5,965796969,M,25,20,91505,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,False
+386198,3892,2324,5,965796969,M,25,20,91505,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,False
 19016,1100,2018,2,974923855,M,25,0,60090,Bambi (1942),Animation|Children's,False
 738350,2393,903,3,974295666,M,56,13,13123,Vertigo (1958),Mystery|Thriller,False
 39526,4177,2762,5,965331770,M,35,17,90680,"Sixth Sense, The (1999)",Thriller,False
@@ -4673,7 +4673,7 @@
 475384,5954,1375,1,957129072,M,45,11,70802,Star Trek III: The Search for Spock (1984),Action|Adventure|Sci-Fi,False
 267205,4960,3163,5,962634065,M,56,1,55116,Topsy-Turvy (1999),Drama,False
 382792,2244,2686,5,974597417,M,1,10,60565,"Red Violin, The (Le Violon rouge) (1998)",Drama|Mystery,False
-421262,1186,1320,4,977291142,M,18,19,98502,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421262,1186,1320,4,977291142,M,18,19,98502,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 908553,416,3185,3,976286342,M,45,14,55076,Snow Falling on Cedars (1999),Drama,False
 994252,442,2128,4,1014945555,M,25,1,55105,Safe Men (1998),Comedy,False
 837418,3704,2239,5,967176185,F,35,0,04255,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama,False
@@ -5617,7 +5617,7 @@
 330583,639,597,4,981088924,M,45,17,85202,Pretty Woman (1990),Comedy|Romance,False
 426854,6016,1256,5,963617607,M,45,1,37209,Duck Soup (1933),Comedy|War,False
 375246,4821,3252,5,962926718,M,18,19,75080,Scent of a Woman (1992),Drama,False
-421217,889,1320,1,975249696,M,45,20,10024,Alien³ (1992),Action|Horror|Sci-Fi|Thriller,False
+421217,889,1320,1,975249696,M,45,20,10024,AlienÂ³ (1992),Action|Horror|Sci-Fi|Thriller,False
 437306,3012,1339,2,998071909,M,25,12,78660,Bram Stoker's Dracula (1992),Horror|Romance,False
 779211,3462,2269,3,999307987,F,25,4,73160,Indecent Proposal (1993),Drama,False
 551204,475,1676,3,976219914,F,25,2,55421,Starship Troopers (1997),Action|Adventure|Sci-Fi|War,False
