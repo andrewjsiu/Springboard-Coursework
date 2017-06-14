@@ -2,6 +2,16 @@
 
 Welcome! This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and data visualization.
 
+
+### Machine Learning
+
+**[Linear Regression with Boston Housing Dataset](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Machine_Learning_Exercises/linear_regression/Mini_Project_Linear_Regression.ipynb):** I use `scikit-learn` library to build a linear regression model to predict the housing prices in Boston based on various features such as per capita crime rate, average number of rooms per dwelling, and pupil-teacher ratio by town. I also split the data into training and testing sets in order to measure how well the model built with the training set can predict the 'unseen' data in the test set. I show how multiple rounds of cross-validation performed on different partitions help limit the problem of overfitting a particular training subset and thus reduce variability of the model.
+
+**[
+
+### Advance Machine Learning Topics
+
+
 ### Data Wrangling
 
 **[JSON Exercises](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Data_Wrangling/data_wrangling_json/json_exercise.ipynb):** The dataset on the World Bank projects is available in a JSON file. I first load the data as a Pandas dataframe and find that China, Indonesia and Vietnam have the most projects with the World Bank. Then I load the JSON file as a string, normalize the project themes, and find that environment and natural resources management, rural development and human development are the project themes with the highest frequencies. 
@@ -10,12 +20,6 @@ Welcome! This repository contains my data science mini-projects, ranging from da
 
 ### Exploratory Data Analysis
 
-**[Human Body Temperature](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_human_temperature/inferential_statistics_exercise_1_human_temperatures.ipynb}:** 
+**[Human Body Temperature](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_human_temperature/inferential_statistics_exercise_1_human_temperatures.ipynb):** 
 I analyze a dataset of human body temperatures and test whether the true average temperature is 98.6 degrees F. As women have a higher average temperature than men, I also test whether there is such gender difference in temperature.   
-
-### Machine Learning
-
-**
-
-### Advance Machine Learning Topics
 
