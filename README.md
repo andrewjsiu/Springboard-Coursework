@@ -9,6 +9,8 @@ Welcome! This repository contains my data science mini-projects, ranging from da
 
 **[Classification and Logistic Regression](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Machine_Learning_Exercises/logistic_regression/Mini_Project_Logistic_Regression.ipynb):** I use cross-validation and grid search to find the best regularization parameter **C** for the logistic regression. Regularization applies a penalty for increasing the coefficient estimates in order to reduce overfitting. The regularization parameter **C** in `scikit-learn` is the inverse of the shrinkage parameter lambda. Larger lambda or smaller **C** increases the shrinkage pentalty and shrinks the coefficient estimates toward zero. By default scikit-learn sets **C**=1 in logistic regression, so some amount of regularization is used even if **C** is not specified. Regularization is good at reducing the variance of the predictions but increasing the bias at the same time. `GridSearchCV` performs a cross-validated grid-search over a parameter grid. We need to specify an estimation method, parameter values for the estimator and a scoring method. The results show the best estimator, the score of the best estimator, and the parameter setting that yields the best score.
 
+**[Text Classification with Naive Bayes](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Machine_Learning_Exercises/naive_bayes/Mini_Project_Naive_Bayes.ipynb):** 
+
 ### Advance Machine Learning Topics
 
 
