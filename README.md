@@ -1,7 +1,22 @@
 # Springboard Data Science Mini-Projects
 
-Welcome! This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and data visualization.
+Welcome! This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization.
 
+### Data Wrangling
+
+**[JSON Exercises](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Data_Wrangling/data_wrangling_json/json_exercise.ipynb):** The dataset on the World Bank projects is available in a JSON file. I first load the data as a Pandas dataframe and find that China, Indonesia and Vietnam have the most projects with the World Bank. Then I load the JSON file as a string, normalize the project themes, and find that environment and natural resources management, rural development and human development are the project themes with the highest frequencies. 
+
+**[XML Exercises](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Data_Wrangling/data_wrangling_xml/xml_exercise.ipynb):** The Mondial database contains geographical terrains and various physical features in the world. I use `xml.etree.ElementTree` module to parse the data, which are stored as elements in a hierarchical structure. Each element has a tag, a number of attributes, a text string, and a number of child elements. I find that (1) Monaco, Japan and Bermuda have the lowest infant morality rate; (2) Shanghai, Istanbul and Mumbai have the largest city population; (3) Han Chinese, Europeans and Indo-Aryan are ethnic groups with the largest overall population, and (4) the longest river in the world is Amazonas, the largest lake is Caspian Sea, and the airport at the highest elevation is El Alto International. 
+
+### Exploratory Data Analysis
+
+**[Human Body Temperature](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_human_temperature/inferential_statistics_exercise_1_human_temperatures.ipynb):** 
+Using a dataset of human body temperatures to illustrate the concept of Central Limit Theorem, hypothesis testing with one sample or two samples, and confidence intervals.
+
+**[Racial Discrimination in US Job Market](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_racial_discrimination/inferential_statistics_exercise_2_racial_discrimination.ipynb):** The dataset comes from a field experiment in which researchers randomly assign identical résumés black-sounding or white-sounding names and observe the impact on requests for interviews from employers. Resumes with black-sounding names receive a callback rate of 6.4%, while white names receive a callback rate of 9.7%. This difference of 3.3 percentage points is statistically significant, as the p-value for the test of equality of callback rates is less than 0.001. Moreover, the 99% confience interval suggests that the true callback rate difference could range from 1.2 percentage points to 5.2 percentage points. Therefore, racial discrmination in the U.S. labor market still appears to be a continual challenge.
+
+**[Recommendations for Reducing Hospital Readmissions](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_hospital_readmissions/inferential_statistics_exercise_3_hospital_readmissions.ipynb):** Hospital readmissions have been used as indciators of poor quality of care, such as inadequate discharge planning and care coordination. The goal of the Hospital Readmissions Reduction Program is to reduce such unnecessary and avoidable readmissions.
+The initial report suggests taht hospitals with smaller number of discharges tend to have a higher excess readmission ratio. But it does not report the correlation coefficient or test whether the correlation is statistically significant. I improve the analysis by finding that the Pearson correlation coefficient is -0.09, suggesting a negative but small correlation between the number of discharges and excess readmission ratio. The p-value of the correlation test is less than 1%, so this negative relationship is indeed statistically significant. However, since the correlation is so small, it is not practical to assume that hospitals with smaller number of dischrages will always have a higher excess readmission ratio. As a result, I do not recommend that hospitals with smaller capacity be required to upgrade their resources or facilities.
 
 ### Machine Learning
 
@@ -21,20 +36,5 @@ For this dataset, the agglomerative clustering performs well in identifying a gr
 
 ### Advance Machine Learning Topics
 
-
-### Data Wrangling
-
-**[JSON Exercises](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Data_Wrangling/data_wrangling_json/json_exercise.ipynb):** The dataset on the World Bank projects is available in a JSON file. I first load the data as a Pandas dataframe and find that China, Indonesia and Vietnam have the most projects with the World Bank. Then I load the JSON file as a string, normalize the project themes, and find that environment and natural resources management, rural development and human development are the project themes with the highest frequencies. 
-
-**[XML Exercises](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Data_Wrangling/data_wrangling_xml/xml_exercise.ipynb):** The Mondial database contains geographical terrains and various physical features in the world. I use `xml.etree.ElementTree` module to parse the data, which are stored as elements in a hierarchical structure. Each element has a tag, a number of attributes, a text string, and a number of child elements. I find that (1) Monaco, Japan and Bermuda have the lowest infant morality rate; (2) Shanghai, Istanbul and Mumbai have the largest city population; (3) Han Chinese, Europeans and Indo-Aryan are ethnic groups with the largest overall population, and (4) the longest river in the world is Amazonas, the largest lake is Caspian Sea, and the airport at the highest elevation is El Alto International. 
-
-### Exploratory Data Analysis
-
-**[Human Body Temperature](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_human_temperature/inferential_statistics_exercise_1_human_temperatures.ipynb):** 
-Using a dataset of human body temperatures to illustrate the concept of Central Limit Theorem, hypothesis testing with one sample or two samples, and confidence intervals.
-
-**[Racial Discrimination in US Job Market](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_racial_discrimination/inferential_statistics_exercise_2_racial_discrimination.ipynb):** The dataset comes from a field experiment in which researchers randomly assign identical résumés black-sounding or white-sounding names and observe the impact on requests for interviews from employers. Resumes with black-sounding names receive a callback rate of 6.4%, while white names receive a callback rate of 9.7%. This difference of 3.3 percentage points is statistically significant, as the p-value for the test of equality of callback rates is less than 0.001. Moreover, the 99% confience interval suggests that the true callback rate difference could range from 1.2 percentage points to 5.2 percentage points. Therefore, racial discrmination in the U.S. labor market still appears to be a continual challenge.
-
-**[Recommendations for Reducing Hospital Readmissions](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_hospital_readmissions/inferential_statistics_exercise_3_hospital_readmissions.ipynb):** Hospital readmissions have been used as indciators of poor quality of care, such as inadequate discharge planning and care coordination. The goal of the Hospital Readmissions Reduction Program is to reduce such unnecessary and avoidable readmissions.
-The initial report suggests taht hospitals with smaller number of discharges tend to have a higher excess readmission ratio. But it does not report the correlation coefficient or test whether the correlation is statistically significant. I improve the analysis by finding that the Pearson correlation coefficient is -0.09, suggesting a negative but small correlation between the number of discharges and excess readmission ratio. The p-value of the correlation test is less than 1%, so this negative relationship is indeed statistically significant. However, since the correlation is so small, it is not practical to assume that hospitals with smaller number of dischrages will always have a higher excess readmission ratio. As a result, I do not recommend that hospitals with smaller capacity be required to upgrade their resources or facilities.
+**[Building a Recommendation Engine](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Advanced_Machine_Learning_Topics/Recommendation_System/Recommendation_Engine.ipynb):** 
 
