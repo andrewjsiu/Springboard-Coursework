@@ -10,10 +10,12 @@ Welcome! This repository contains my data science mini-projects, ranging from da
 
 ### Exploratory Data Analysis
 
-**[
-
+**[Human Body Temperature](https://github.com/andrewjsiu/Springboard-Coursework/blob/master/Exploratory_Data_Analysis/data_human_temperature/inferential_statistics_exercise_1_human_temperatures.ipynb}:** 
+I analyze a dataset of human body temperatures and test whether the true average temperature is 98.6 degrees F. As women have a higher average temperature than men, I also test whether there is such gender difference in temperature.   
 
 ### Machine Learning
+
+**
 
 ### Advance Machine Learning Topics
 
